@@ -86,5 +86,4 @@ public class SPCampaignStatistic extends CampaignStatistic<SPCampaignStatistic> 
     analytic.setPurchasesSameSku(0);
     return analytic;
   }
-
 }
